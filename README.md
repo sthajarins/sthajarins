@@ -1,10 +1,10 @@
 👋 Hello, I'm Niroj Shrestha!
-🚀 **Facilitator | [Your Expertise] | [Your Passion]**
+🚀 **Electronics and Communication Engineer | [My Sql] | [Power BI]**
  
 🔹 Passionate about **[mention key skills/topics]**  
 🔹 Currently working on **[project name or company name]**  
 🔹 Open to collaborating on **[mention types of projects]**  
-🔹 Learning **[any new technology or skill you're exploring]**  
+🔹 Learning **[Data Analyst]**  
  
 ---
  
