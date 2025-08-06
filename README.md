@@ -1,11 +1,7 @@
 👋 Hello, I'm Niroj Shrestha!
 🚀 **Electronics and Communication Engineer | [My Sql] | [Power BI]**
  
-🔹 Passionate about **[mention key skills/topics]**  
-🔹 Currently working on **[project name or company name]**  
-🔹 Open to collaborating on **[mention types of projects]**  
-🔹 Learning **[Data Analyst]**  
- 
+I am a results-driven Analytical and detail-oriented Data Scientist with over 8 years of hands-on experience in developing data-driven solutions across fintech, telecommunications, and healthcare industries. Proven ability to architect and deploy predictive models, automate ETL pipelines, and create insightful dashboards using tools like Python, SQL, Power BI, Tableau, and PySpark. Expertise in fraud detection, churn prediction, risk analysis, and data warehousing across distributed and cloud environments including AWS, Snowflake, and Redshift. Adept at collaborating with cross-functional teams to transform business goals into actionable analytics strategies while ensuring data privacy compliance (HIPAA, GDPR, CCPA). Passionate about solving real-world problems with machine learning, data storytelling, and scalable engineering practices that deliver measurable business outcomes.
 ---
  
 ### 💻 Tech Stack:
